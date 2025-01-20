@@ -1,0 +1,12 @@
+{
+    "name": "test-deployment-file-exists",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^18",
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "@pulumi/command": "^1.0.1",
+        "@pulumi/pulumi": "^3.113.0"
+    }
+}
